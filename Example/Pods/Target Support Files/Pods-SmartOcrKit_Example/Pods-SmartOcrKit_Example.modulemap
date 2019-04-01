@@ -1,0 +1,6 @@
+framework module Pods_SmartOcrKit_Example {
+  umbrella header "Pods-SmartOcrKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

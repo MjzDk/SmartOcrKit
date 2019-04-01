@@ -1,0 +1,16 @@
+PODS:
+  - SmartOcrKit (0.1.0)
+
+DEPENDENCIES:
+  - SmartOcrKit (from `../`)
+
+EXTERNAL SOURCES:
+  SmartOcrKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SmartOcrKit: c22226c1ebdaae63eb2dd23117b61e16ea504841
+
+PODFILE CHECKSUM: aa2ef75403cb70c51aa894cbcc89a2439dfcbeb8
+
+COCOAPODS: 1.6.1
